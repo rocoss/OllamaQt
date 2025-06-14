@@ -1,0 +1,2 @@
+# constants.py
+CONTEXT_LENGTH_DEFAULT = 8192
